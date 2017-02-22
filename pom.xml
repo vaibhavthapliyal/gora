@@ -717,6 +717,7 @@
     <module>gora-solr-5</module>
     <module>gora-tutorial</module>
     <module>sources-dist</module>
+    <module>gora-elasticsearch</module>
   </modules>
 
   <properties>
