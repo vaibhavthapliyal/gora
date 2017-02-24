@@ -34,6 +34,10 @@ public class ElasticSearchMapping {
   public void setSchemaName(String schemaName) {
     this.schemaName = schemaName;
   }
+
+  public HashMap<String, String> getDocument() {
+    return document;
+  }
   
 
 }
